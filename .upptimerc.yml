@@ -5,6 +5,7 @@ repo: status.dy1.io # The name of this repository
 sites:
   - name: Home Assistant
     url: $SITE_HOMEASSISTANT
+    icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/home-assistant.png
   - name: SISH
     check: "tcp-ping"
     url: sish.dy1.io
