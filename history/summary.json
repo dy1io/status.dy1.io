@@ -22,19 +22,17 @@
     "url": "sish.dy1.io",
     "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/sish.png",
     "slug": "sish",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
-    "time": 76,
-    "timeDay": 80,
-    "timeWeek": 76,
-    "timeMonth": 76,
-    "timeYear": 76,
-    "dailyMinutesDown": {
-      "2023-11-05": 9
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 79,
+    "timeDay": 83,
+    "timeWeek": 79,
+    "timeMonth": 79,
+    "timeYear": 79,
+    "dailyMinutesDown": {}
   }
 ]
