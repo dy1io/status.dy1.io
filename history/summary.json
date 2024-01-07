@@ -4,7 +4,7 @@
     "url": "$SITE_HOMEASSISTANT",
     "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/home-assistant.png",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 593,
     "timeYear": 632,
     "dailyMinutesDown": {
+      "2024-01-07": 0,
       "2023-12-22": 8,
       "2023-12-15": 339,
       "2023-12-08": 11,
