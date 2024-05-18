@@ -42,7 +42,7 @@
     "url": "sish.dy1.io",
     "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/sish.png",
     "slug": "sish",
-    "status": "up",
+    "status": "down",
     "uptime": "95.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.79%",
@@ -54,6 +54,7 @@
     "timeMonth": 117,
     "timeYear": 98,
     "dailyMinutesDown": {
+      "2024-05-18": 0,
       "2024-05-12": 311,
       "2024-05-11": 1121,
       "2024-05-09": 318,
