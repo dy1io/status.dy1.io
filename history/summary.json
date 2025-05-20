@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/home-assistant.png",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "96.44%",
+    "uptime": "96.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.82%",
+    "uptimeMonth": "94.11%",
     "uptimeYear": "94.95%",
     "time": 735,
-    "timeDay": 774,
-    "timeWeek": 807,
-    "timeMonth": 907,
-    "timeYear": 775,
+    "timeDay": 784,
+    "timeWeek": 805,
+    "timeMonth": 903,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2025-04-30": 33,
       "2025-04-29": 14,
@@ -74,14 +74,14 @@
     "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/sish.png",
     "slug": "sish",
     "status": "up",
-    "uptime": "83.31%",
+    "uptime": "83.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.71%",
+    "uptimeYear": "76.99%",
     "time": 59,
-    "timeDay": 76,
-    "timeWeek": 53,
+    "timeDay": 43,
+    "timeWeek": 48,
     "timeMonth": 40,
     "timeYear": 37,
     "dailyMinutesDown": {
@@ -170,8 +170,7 @@
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
-      "2024-05-21": 1440,
-      "2024-05-20": 1440
+      "2024-05-21": 1440
     }
   }
 ]
