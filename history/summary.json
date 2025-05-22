@@ -8,13 +8,13 @@
     "uptime": "96.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.39%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "94.95%",
-    "time": 736,
-    "timeDay": 858,
-    "timeWeek": 806,
-    "timeMonth": 902,
-    "timeYear": 777,
+    "time": 737,
+    "timeDay": 1233,
+    "timeWeek": 844,
+    "timeMonth": 908,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2025-04-30": 33,
       "2025-04-29": 14,
@@ -74,15 +74,15 @@
     "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/sish.png",
     "slug": "sish",
     "status": "up",
-    "uptime": "83.37%",
+    "uptime": "83.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.26%",
+    "uptimeYear": "77.53%",
     "time": 59,
     "timeDay": 75,
-    "timeWeek": 55,
-    "timeMonth": 42,
+    "timeWeek": 57,
+    "timeMonth": 44,
     "timeYear": 37,
     "dailyMinutesDown": {
       "2025-03-03": 31,
@@ -168,8 +168,7 @@
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
-      "2024-05-23": 1440,
-      "2024-05-22": 1440
+      "2024-05-23": 1440
     }
   }
 ]
