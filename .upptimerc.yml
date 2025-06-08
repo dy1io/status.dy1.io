@@ -3,6 +3,9 @@ owner: dy1io # Your GitHub organization or username, where this repository lives
 repo: status.dy1.io # The name of this repository
 
 sites:
+  - name: Homelab
+    url: $SITE_HOMELAB
+    icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/homelab.png
   - name: Home Assistant
     url: $SITE_HOMEASSISTANT
     icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/home-assistant.png
@@ -11,6 +14,9 @@ sites:
     url: sish.dy1.io
     port: 2222
     icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/sish.png
+  - name: Host a Thing
+    url: $SITE_HOSTATHING
+    icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/ravenswatch.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
