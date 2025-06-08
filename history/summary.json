@@ -1,5 +1,23 @@
 [
   {
+    "name": "Homelab",
+    "url": "$SITE_HOMELAB",
+    "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/homelab.png",
+    "slug": "homelab",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 356,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Home Assistant",
     "url": "$SITE_HOMEASSISTANT",
     "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/home-assistant.png",
@@ -7,7 +25,7 @@
     "status": "up",
     "uptime": "96.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.18%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "94.90%",
     "time": 747,
@@ -76,10 +94,10 @@
     "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/sish.png",
     "slug": "sish",
     "status": "down",
-    "uptime": "81.96%",
+    "uptime": "81.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.16%",
+    "uptimeMonth": "62.12%",
     "uptimeYear": "78.38%",
     "time": 56,
     "timeDay": 0,
@@ -87,7 +105,7 @@
     "timeMonth": 47,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2025-06-08": 8,
+      "2025-06-08": 466,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
@@ -170,5 +188,23 @@
       "2024-06-10": 1440,
       "2024-06-09": 1440
     }
+  },
+  {
+    "name": "Host a Thing",
+    "url": "$SITE_HOSTATHING",
+    "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/ravenswatch.png",
+    "slug": "host-a-thing",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 770,
+    "timeDay": 770,
+    "timeWeek": 770,
+    "timeMonth": 770,
+    "timeYear": 770,
+    "dailyMinutesDown": {}
   }
 ]
