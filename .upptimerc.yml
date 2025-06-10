@@ -12,7 +12,7 @@ sites:
   - name: SISH
     check: "tcp-ping"
     url: sish.dy1.io
-    port: 2222
+    port: 22
     icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/sish.png
   - name: Host a Thing
     url: $SITE_HOSTATHING
