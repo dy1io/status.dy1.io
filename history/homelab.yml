@@ -1,7 +1,7 @@
 url: $SITE_HOMELAB
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-29T22:21:57.868Z
+status: up
+code: 200
+responseTime: 441
+lastUpdated: 2025-06-29T22:33:00.334Z
 startTime: 2025-06-08T07:44:47.629Z
 generator: Upptime <https://github.com/upptime/upptime>
