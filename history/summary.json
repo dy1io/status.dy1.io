@@ -10,11 +10,11 @@
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 294,
-    "timeDay": 248,
-    "timeWeek": 291,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "time": 295,
+    "timeDay": 330,
+    "timeWeek": 286,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2025-06-29": 11
     }
@@ -25,16 +25,16 @@
     "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/home-assistant.png",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "96.67%",
+    "uptime": "96.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "94.91%",
     "time": 755,
-    "timeDay": 5225,
-    "timeWeek": 1520,
-    "timeMonth": 885,
-    "timeYear": 807,
+    "timeDay": 635,
+    "timeWeek": 1433,
+    "timeMonth": 883,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2025-06-04": 14,
       "2025-06-01": 270,
@@ -94,15 +94,15 @@
     "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/sish.png",
     "slug": "sish",
     "status": "up",
-    "uptime": "81.99%",
-    "uptimeDay": "8.84%",
+    "uptime": "82.00%",
+    "uptimeDay": "18.79%",
     "uptimeWeek": "84.07%",
-    "uptimeMonth": "69.12%",
-    "uptimeYear": "84.03%",
-    "time": 56,
-    "timeDay": 51,
+    "uptimeMonth": "69.45%",
+    "uptimeYear": "84.06%",
+    "time": 55,
+    "timeDay": 48,
     "timeWeek": 45,
-    "timeMonth": 120,
+    "timeMonth": 116,
     "timeYear": 43,
     "dailyMinutesDown": {
       "2025-07-02": 1177,
@@ -171,8 +171,7 @@
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440
+      "2024-07-04": 1440
     }
   },
   {
@@ -186,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 491,
-    "timeWeek": 569,
-    "timeMonth": 577,
-    "timeYear": 577,
+    "time": 575,
+    "timeDay": 521,
+    "timeWeek": 571,
+    "timeMonth": 575,
+    "timeYear": 575,
     "dailyMinutesDown": {}
   }
 ]
