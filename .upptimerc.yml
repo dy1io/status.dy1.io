@@ -6,6 +6,13 @@ sites:
   - name: Homelab
     url: $SITE_HOMELAB
     icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/k3s.png
+    headers:
+      - "Authorization: Bearer $TOKEN_HOMELAB_API"
+    verifySSL: false
+    followRedirect: false
+  - name: Rancher
+    url: $SITE_RANCHER
+    icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/rancher.png
   - name: Home Assistant
     url: $SITE_HOMEASSISTANT
     icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/home-assistant.png
