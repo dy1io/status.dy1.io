@@ -10,6 +10,8 @@ sites:
       - "Authorization: Bearer $TOKEN_HOMELAB_API"
     verifySSL: false
     followRedirect: false
+    method: GET
+    expectStatus: 200
   - name: Rancher
     url: $SITE_RANCHER
     icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/rancher.png
