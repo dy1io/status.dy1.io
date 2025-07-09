@@ -4,12 +4,10 @@ repo: status.dy1.io # The name of this repository
 
 sites:
   - name: Homelab
+    check: "tcp-ping"
     url: $SITE_HOMELAB
+    port: $PORT_HOMELAB
     icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/k3s.png
-    headers:
-      - "Authorization: Bearer $TOKEN_HOMELAB_API"
-    __dangerous__insecure: true
-    __dangerous__body_down_if_text_missing: 'ok'
   - name: Rancher
     url: $SITE_RANCHER
     icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/rancher.png
