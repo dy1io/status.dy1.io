@@ -9,6 +9,7 @@ sites:
     headers:
       - "Authorization: Bearer $TOKEN_HOMELAB_API"
     __dangerous__disable_verify_peer: true
+    __dangerous__body_down_if_text_missing: 'ok'
   - name: Rancher
     url: $SITE_RANCHER
     icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/rancher.png
