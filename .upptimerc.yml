@@ -8,10 +8,7 @@ sites:
     icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/k3s.png
     headers:
       - "Authorization: Bearer $TOKEN_HOMELAB_API"
-    verifySSL: false
-    followRedirect: false
-    method: GET
-    expectStatus: 200
+    __dangerous__disable_verify_peer: true
   - name: Rancher
     url: $SITE_RANCHER
     icon: https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/rancher.png
