@@ -1,7 +1,7 @@
 url: $SITE_HOSTATHING
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-19T23:02:28.493Z
+status: up
+code: 200
+responseTime: 558
+lastUpdated: 2025-07-20T03:54:00.500Z
 startTime: 2025-06-08T07:46:04.980Z
 generator: Upptime <https://github.com/upptime/upptime>
