@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/k3s.png",
     "slug": "homelab",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "98.26%",
-    "uptimeYear": "98.83%",
-    "time": 210,
-    "timeDay": 20,
-    "timeWeek": 35,
-    "timeMonth": 169,
-    "timeYear": 210,
+    "uptimeYear": "98.84%",
+    "time": 207,
+    "timeDay": 36,
+    "timeWeek": 36,
+    "timeMonth": 164,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2025-07-18": 13,
       "2025-07-17": 10,
@@ -35,11 +35,11 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 292,
-    "timeDay": 289,
-    "timeWeek": 275,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "time": 284,
+    "timeDay": 150,
+    "timeWeek": 258,
+    "timeMonth": 284,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2025-07-19": 32,
       "2025-07-14": 11
@@ -57,9 +57,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "94.90%",
     "time": 764,
-    "timeDay": 912,
-    "timeWeek": 738,
-    "timeMonth": 949,
+    "timeDay": 711,
+    "timeWeek": 670,
+    "timeMonth": 951,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2025-07-23": 12,
@@ -114,8 +114,7 @@
       "2024-09-14": 1177,
       "2024-09-10": 28,
       "2024-09-09": 9,
-      "2024-08-26": 9,
-      "2024-07-24": 23
+      "2024-08-26": 9
     }
   },
   {
@@ -124,15 +123,15 @@
     "icon": "https://raw.githubusercontent.com/dy1io/status.dy1.io/master/assets/sish.png",
     "slug": "sish",
     "status": "up",
-    "uptime": "82.47%",
+    "uptime": "82.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
-    "uptimeMonth": "90.83%",
-    "uptimeYear": "87.90%",
+    "uptimeMonth": "91.48%",
+    "uptimeYear": "88.00%",
     "time": 59,
-    "timeDay": 20,
-    "timeWeek": 38,
-    "timeMonth": 49,
+    "timeDay": 36,
+    "timeWeek": 39,
+    "timeMonth": 48,
     "timeYear": 43,
     "dailyMinutesDown": {
       "2025-07-21": 76,
@@ -192,8 +191,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   },
   {
@@ -207,11 +205,11 @@
     "uptimeWeek": "95.45%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "99.30%",
-    "time": 568,
-    "timeDay": 616,
-    "timeWeek": 529,
-    "timeMonth": 548,
-    "timeYear": 568,
+    "time": 570,
+    "timeDay": 668,
+    "timeWeek": 547,
+    "timeMonth": 559,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2025-07-20": 234,
       "2025-07-19": 224
